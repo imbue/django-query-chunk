@@ -1,5 +1,5 @@
 # Django Query Chunk
-Django Query Chunk is used to split big queries into multiple chunks for prevent (too high) memory usage.
+Django Query Chunk is used to split big queries into multiple chunks for prevent (too high) memory usage. The chunk function will split the query set into several isolated queries.
 
 
 ## Requirements
